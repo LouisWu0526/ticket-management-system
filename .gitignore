@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/data/
+backend/uploads/
+
+# Node
+node_modules/
+frontend/dist/
+
+# 环境变量
+.env
+*.local
+
+# IDE
+.idea/
+.vscode/
